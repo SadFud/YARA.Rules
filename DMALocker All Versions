@@ -2,7 +2,7 @@
 rule DMALocker4.0
 {
     meta:
-    Description = "Deteccion del ramsomware DMA Locker desde la version 1.0 a la 4.0"
+    Description = "Deteccion del ransomware DMA Locker desde la version 1.0 a la 4.0"
     Author = "SadFud"
     Date = "30/05/2016"
     
